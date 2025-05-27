@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer Internship",
+    "organisation": "Igile Technology Pvt. Ltd.",
+    "startDate": "April, 2021 -",
+    "endDate": "October,2021",
+    "location": "Ghazipur",
+    "experiences": [
+      "Worked on web technologies like HTML, CSS, JavaScript, Bootstrap",
+      "Participated in frontend development and responsive UI design"
+    ],
+    "imageSrc": "company/igile.png"
+  },
+  {
+    "id": 2,
+    "role": "Website Design",
+    "organisation": "Wcc Trade",
+    "startDate": "Aug, 2022",
+    "endDate": "July, 2024",
+    "location": "Delhi",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/wcctrade.png"
+  },
+  {
+    "id": 3,
+    "role": "Mern Stack Developer Intern",
+    "organisation": "Dasos Consultant Pvt. Ltd",
+    "startDate": "Apr, 2025",
+    "endDate": "Present",
+    "location": "Lucknow",
+    "experiences": [
+      "Worked on web technologies like HTML , CSS, JavaScript, MongoDb, Express.js React.js, Node.js",
+      "Participated in Frontend and Backend development and responsive UI design"
+    ],
+    "imageSrc": "company/dasos.png"
+  }
+]
